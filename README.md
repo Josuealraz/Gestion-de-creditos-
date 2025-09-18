@@ -1,5 +1,5 @@
 ---
-#Gestión de Créditos
+# Gestión de Créditos
 
 Aplicación web en Flask y SQLite que permite registrar, consultar, editar y eliminar créditos.
 
